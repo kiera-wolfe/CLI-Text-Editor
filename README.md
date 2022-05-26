@@ -24,7 +24,7 @@ Then run './ECTextEditor' to run the text editor within your current terminal wi
 
 The following commands are supported:
 
-Text insertion - Alpha-nunmeric keys
+Text insertion - Alpha-nunmeric keys \n
 Text deletion - Backspace/Delete
 Carraige return - Enter key
 Undo - Ctrl-Z
