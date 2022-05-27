@@ -8,13 +8,13 @@ This product uses C++.
 
 ### Quickstart
 
-To build and run the product, clone the repository and open a terminal. Navigate to the project directory. Type 'make' to compile the project.
+To build and run the product, clone the repository and open a terminal. Navigate to the project directory. Type `make` to compile the project.
 
 ```bash
 make
 ```
 
-Then run './ECTextEditor' to run the text editor within your current terminal window.
+Then run `./ECTextEditor` to run the text editor within your current terminal window.
 
 ```bash
 ./ECTextEditor
@@ -29,3 +29,4 @@ Text deletion - Backspace/Delete <br />
 Carraige return - Enter key <br/>
 Undo - Ctrl-Z <br />
 Redo - Ctrl-Y <br/>
+Cursor manipulation - Arrow keys
